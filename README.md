@@ -2,14 +2,14 @@
 
 # Hi, I'm Vansh 👋
 
-### **AI Engineerr**
+### **AI Engineer | Agentic AI & AI Applications**
 
-*Building intelligent, scalable software solutions with AI, robust backend systems, and modern web tech.*
+*Building intelligent AI systems, agentic workflows, RAG pipelines, and real-world AI applications.*
 
 <br>
 
 <a href="https://github.com/vanshsingh3711-wq">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=AI+Full+Stack+Developer;Building+Autonomous+AI+Agents;Scaling+Backend+Systems;Modern+Web+Applications;System+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=AI+Engineer;Building+AI+Agents;Designing+RAG+Systems;Building+AI+Applications;Exploring+Agentic+AI" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -30,19 +30,34 @@
 
 ## ⚡ About Me
 
-I am a highly skilled AI Full Stack Developer focused on building production-ready AI applications and scalable backend architectures. I specialize in bridging the gap between sophisticated machine learning capabilities and seamless, user-centric software.
+I'm an **AI Engineer focused on building AI-powered applications and agentic systems**.
 
-I prioritize clean, maintainable code, performance optimization, and architectural integrity in all my projects.
+My work focuses on turning LLMs into useful software through **AI agents, RAG pipelines, tool calling, workflow orchestration, and multimodal AI systems**.
 
-**Key Focus Areas:** AI Agents • RAG Systems • API Design • System Architecture
+I'm particularly interested in building AI products that solve real problems rather than simple chatbot wrappers.
 
-<br>
+Currently focused on:
 
-## 🛠️ Core Expertise
+* 🤖 AI Agents & Agentic Workflows
+* 🧠 RAG & Knowledge Retrieval
+* 🔧 LLM Tool Calling & Orchestration
+* 🎥 Multimodal & AI Creative Applications
+* 🏗️ AI Application Architecture
+* 🌐 Production AI Applications
+* 🌱 Open Source AI Engineering
 
-| 🤖 AI & Machine Learning | ⚙️ Backend & Architecture | 🌐 Full Stack & Product |
-| :--- | :--- | :--- |
-| • AI Agents & Orchestration<br>• RAG Pipeline Design<br>• LLM Integrations<br>• Prompt Engineering | • High-Performance APIs<br>• Microservices Architecture<br>• Workflow Automation<br>• Database Optimization | • AI SaaS Development<br>• Cross-Platform Apps<br>• Developer Tooling (DevTools)<br>• Performance Tuning |
+---
+
+## 🛠️ Core Focus
+
+| 🤖 AI Engineering      | 🧠 Knowledge & Agents | 🏗️ Application Engineering |
+| :--------------------- | :-------------------- | :-------------------------- |
+| LLM Applications       | RAG Systems           | Next.js Applications        |
+| AI Agents              | Vector Search         | API Development             |
+| Tool Calling           | Embeddings            | PostgreSQL                  |
+| Workflow Orchestration | Knowledge Retrieval   | Authentication              |
+| Multimodal AI          | Context Management    | Deployment                  |
+| AI Automation          | Agent Memory          | Developer Tools             |
 
 <br>
 
@@ -50,29 +65,36 @@ I prioritize clean, maintainable code, performance optimization, and architectur
 
 <div align="left">
 
-**Languages**
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,ts,mysql&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Languages" />
 </p>
 
-**Frontend**
+### AI & Agentic Systems
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-0E1726?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector_DBs-0E1726?style=for-the-badge" alt="Vector Databases" />
+</p>
+
+### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend" />
 </p>
 
-**Backend & Databases**
+### Backend & Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis,prisma&theme=dark" alt="Backend & Databases" />
 </p>
 
-**AI & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Vector_DBs-0E1726?style=for-the-badge" alt="Vector DBs" />
-</p>
+### Tools & DevOps
 
-**Tools & DevOps**
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode,npm&theme=dark" alt="Tools & DevOps" />
 </p>
@@ -85,11 +107,12 @@ I prioritize clean, maintainable code, performance optimization, and architectur
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Nexus](#)** | High-performance SaaS application for real-time AI data processing. | `Next.js` `FastAPI` `PostgreSQL` |
-| **[AI Agent](#)** | Autonomous multi-agent framework capable of executing complex workflows. | `Python` `LangGraph` `OpenAI` |
-| **[RAG System](#)** | Scalable retrieval-augmented generation pipeline using advanced embedding strategies. | `TypeScript` `VectorDB` `Redis` |
+| Project              | Description                                                                                                      | Tech Stack                           |
+| :------------------- | :--------------------------------------------------------------------------------------------------------------- | :----------------------------------- |
+| **Nexus**            | AI-powered developer workspace focused on project context, AI assistance, memory, and developer workflows.       | `Next.js` `TypeScript` `AI`          |
+| **AI Video Editor**  | AI-powered video editing system combining automated editing workflows with a manual editing experience.          | `React` `TypeScript` `Remotion` `AI` |
+| **Lucy**             | AI shopping agent that understands user preferences, discovers products, and assists with the shopping workflow. | `Python` `LLMs` `Agents` `Shopify`   |
+| **AI Agent Systems** | Experiments and applications exploring autonomous workflows, tool use, RAG, and agent orchestration.             | `Python` `LangGraph` `LangChain`     |
 
 </div>
 
@@ -110,12 +133,16 @@ I prioritize clean, maintainable code, performance optimization, and architectur
 
 <br>
 
-## 💻 Engineering Principles
+## 🧩 What I'm Exploring
 
-* **Scalability:** Designing systems to handle growth without compromising performance.
-* **Maintainability:** Writing clean, documented, and testable code.
-* **DX (Developer Experience):** Building intuitive APIs and internal tools.
-* **Security:** Prioritizing data protection and secure architectural patterns.
+* Building reliable AI agents
+* Advanced RAG architectures
+* Agent evaluation and observability
+* Multimodal AI systems
+* AI-powered developer tools
+* AI video generation and editing
+* Open-source AI engineering
+* Production AI architecture
 
 <br>
 
@@ -125,11 +152,8 @@ I prioritize clean, maintainable code, performance optimization, and architectur
   <a href="mailto:vanshsingh3711@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/vansh-singh-0463b52b7/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://github.com/vanshsingh3711-wq">
     <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
