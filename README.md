@@ -2,7 +2,7 @@
 
 # Hi, I'm Vansh 👋
 
-### **AI Full Stack Developer**
+### **AI Engineerr**
 
 *Building intelligent, scalable software solutions with AI, robust backend systems, and modern web tech.*
 
